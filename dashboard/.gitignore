@@ -1,0 +1,17 @@
+# Security
+.env
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+backend/venv/
+backend/.venv/
+
+# Node/React
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# Logs
+*.log
