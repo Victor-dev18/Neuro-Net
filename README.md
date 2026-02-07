@@ -17,7 +17,7 @@ Traditional firewalls are **reactive**—they only block known signatures. Once 
 
 Neuro-Net operates on a three-tier architecture connecting Physical Edge devices to Cloud Intelligence.
 
-*(Add IoT architecture diagram here)*
+
 
 ### Layers:
 
