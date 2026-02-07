@@ -35,7 +35,7 @@ Neuro-Net operates on a three-tier architecture connecting Physical Edge devices
 
 ---
 
-![Dashboard Screenshot](assets/dashboard_preview.png)
+
 
 
 🛠️ Tech Stack
